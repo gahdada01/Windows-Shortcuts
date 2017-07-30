@@ -1,7 +1,7 @@
 
 
-There are 156 run commands at mypchell.com.
-Here is a more complete list including the Windows Environment Commands (e.g. %temp%, %HomeDrive%, etc)
+There are 156 run commands at [mypchell.com](https://ss64.com/nt/syntax-variables.html).
+Here is a more complete list including the [Windows Environment Commands](http://mypchell.com/guides/34-guides/69-156-useful-run-commands) (e.g. %temp%, %HomeDrive%, etc)
 
 ### Windows Environment Commands
 
