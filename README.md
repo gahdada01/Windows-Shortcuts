@@ -14,12 +14,17 @@ Here is a more complete list including the Windows Environment Commands (e.g. %t
 %LocalAppData% - Opens local AppData folder C:\Users\{username}\AppData\Local
 %ProgramData% - C:\ProgramData
 %ProgramFiles% -  C:\Program Files or C:\Program Files (x86)
-%ProgramFiles(x86)% - C:\Program Files (x86) %Public% - C:\Users\Public %SystemDrive% - C: %SystemRoot% - Opens Windows folder C:\Windows
-%Temp% - Opens temporary file Folder C:\Users\{Username}\AppData\Local\Temp %UserProfile% - Opens your user's profile
+%ProgramFiles(x86)% - C:\Program Files (x86) 
+%Public% - C:\Users\Public 
+%SystemDrive% - C: 
+%SystemRoot% - Opens Windows folder C:\Windows
+%Temp% - Opens temporary file Folder C:\Users\{Username}\AppData\Local\Temp 
+%UserProfile% - Opens your user's profile
 ```
 
 ### Run commands
 
+```ruby
 Calc - Calculator
 Cfgwiz32 - ISDN Configuration Wizard
 Charmap - Character Map
@@ -62,9 +67,11 @@ Tskill - reduced version of Taskkill from Windows XP Home
 Tracert - Traces and displays all paths required to reach an internet host
 Winchat - simple chat program for Windows networks
 Winipcfg - Displays IP configuration
+```
 
 ### If Microsoft Office is installed you can use following run commands:
 
+```ruby
 winword - Microsoft Word
 excel - Microsoft Excel
 powerpnt - Microsoft PowerPoint
@@ -72,9 +79,11 @@ msaccess - Microsoft Access
 outlook - Microsoft Outlook
 ois - Microsoft Picture Manager
 winproj - Microsoft Project
+```
 
 ### Management Consoles
 
+```ruby
 certmgr.msc - Certificate Manager
 ciadv.msc - Indexing Service
 compmgmt.msc - Computer management
@@ -92,9 +101,11 @@ perfmon.msc - Performance Manager
 secpol.msc - Local Security Policy
 services.msc - System Services
 wmimgmt.msc - Windows Management
+```
 
 ### Shortcuts
 
+```ruby
 access.cpl - Accessibility Options
 hdwwiz.cpl - Add New Hardware Wizard
 appwiz.cpl - Add/Remove Programs
@@ -115,7 +126,9 @@ sysdm.cpl - System Properties
 nusrmgr.cpl - User settings
 firewall.cpl - Firewall Settings (sp2)
 wscui.cpl - Security Center (sp2)
-
+```
+```ruby
 Wupdmgr - Takes you to Microsoft Windows Update
+```
 
 ## Thanks to The New Tech for the original forum posting.
