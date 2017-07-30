@@ -5,6 +5,7 @@ Here is a more complete list including the Windows Environment Commands (e.g. %t
 
 ### Windows Environment Commands
 
+```ruby
 %AllUsersProfile% - Open the All User's Profile C:\ProgramData
 %AppData% - Opens AppData folder C:\Users\{username}\AppData\Roaming
 %CommonProgramFiles% - C:\Program Files\Common Files
@@ -15,6 +16,7 @@ Here is a more complete list including the Windows Environment Commands (e.g. %t
 %ProgramFiles% -  C:\Program Files or C:\Program Files (x86)
 %ProgramFiles(x86)% - C:\Program Files (x86) %Public% - C:\Users\Public %SystemDrive% - C: %SystemRoot% - Opens Windows folder C:\Windows
 %Temp% - Opens temporary file Folder C:\Users\{Username}\AppData\Local\Temp %UserProfile% - Opens your user's profile
+```
 
 ### Run commands
 
