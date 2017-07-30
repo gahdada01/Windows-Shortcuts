@@ -6,7 +6,6 @@ Here is a more complete list including the Windows Environment Commands (e.g. %t
 ### Windows Environment Commands
 
 %AllUsersProfile% - Open the All User's Profile C:\ProgramData
-
 %AppData% - Opens AppData folder C:\Users\{username}\AppData\Roaming
 %CommonProgramFiles% - C:\Program Files\Common Files
 %CommonProgramFiles(x86)% - C:\Program Files (x86)\Common Files
